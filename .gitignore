@@ -1,0 +1,7 @@
+/.venv
+/app.py
+/image.png
+/Procfile
+/static
+/templates
+/test.py
